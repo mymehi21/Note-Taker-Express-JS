@@ -74,4 +74,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any questions or inquiries, please contact [your-name](mailto:your-email@example.com).
+For any questions or inquiries, please contact [Moustapha Merhri](mostafa_mer3e8@hotmail.com).
